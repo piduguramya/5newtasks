@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>semantic elements</title>
+</head>
+<body>
+    <table bgcolor="pink" border="3"
+    cellspacing="10"
+    cellpadding="25"
+    width="75%"
+    height="75%">
+        <caption><h1><u>semantic elements:</u></h1></caption>
+            <tr bgcolor="lavender">
+                <td colspan="2"><b><center>< header ></center></b></td>
+                <!-- <td></td> -->
+            </tr>
+            <tr bgcolor="lavender">
+                <td colspan="2"><b>< nav ></b></td>
+                <!-- <td></td> -->
+            </tr>
+            <tr>
+                <td bgcolor="yellow"><b>< section ></b></td>
+                <td bgcolor="yellow" rowspan="2"><b>< aside ></b></td>
+            </tr>
+            <tr>
+                <td bgcolor="yellow"><b>< article ></b></td>
+                <!-- <td></td> -->
+            </tr>
+            <tr bgcolor="lavender">
+                <td colspan="2"><b>< footer ></b></td>
+                <!-- <td></td> -->
+            </tr>
+    </table>
+</body>
+</html>
